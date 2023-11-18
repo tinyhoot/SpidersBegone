@@ -6,7 +6,7 @@ This also means that this mod will not work for you if you join the game of some
 this mod installed.
 
 ## Installation
-- Install [https://github.com/BepInEx/BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22).
+- Install [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22).
 - Unzip this mod into your `Lethal Company/BepInEx` folder.
 - Run the game **as host**.
 
